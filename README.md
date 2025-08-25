@@ -17,3 +17,5 @@ Here are some screenshots from the game:
 
 **In-Game:**
 ![In-Game](./img/Screenshot-game.png)
+
+[Also see Pişti!](https://tansut.github.io/carki-felek/pisti.html)
